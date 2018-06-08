@@ -1,1 +1,2 @@
 SELECT * FROM ABCDEFGHIJKL
+select 1
